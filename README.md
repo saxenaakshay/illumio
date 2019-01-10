@@ -4,3 +4,7 @@ The program does the following :
 3. For any packet that matches the rules, it returns true. Otherwise, false.
 
 The Rule class is used to store rule parameters, ip address is broken in individual octet and a long value is formed by shifting.
+
+Interested in the following roles:
+1. Platform 
+2. Policy
